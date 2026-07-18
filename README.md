@@ -2,14 +2,13 @@
 
 <h3 align="center">Electronics & Communication Engineering Student | Digital VLSI & Embedded Systems Enthusiast</h3> <br><br> 
 
-• **I'm currently working on:** Optimizing hardware verification testbenches, solving core digital logic challenges on HDLBits, and expanding system-level debugging skills.
-• **I'm looking to collaborate on:** Open-source digital design architectures, Verilog HDL IP cores, and embedded instrumentation systems.
-• **I'm looking for help with:** Advanced Mixed-Signal simulation workflows and industry-standard ASIC backend methodologies.
-• **I'm currently learning:** Modern C++ memory optimization protocols, Cadence Virtuoso layout mechanics, and technical sales account management structures.
-• **Ask me about:** Verilog HDL (RTL & FSM Design), LTspice simulation, UART architecture, digital logic verification, and C++.
-• **Know about my experiences:** <a href="https://www.linkedin.com/in/kushalkumar12102006/">LinkedIn</a>
-• **Fun fact:** I bridge the gap between complex hardware configurations and customer solutions—applying system verification rigor to technical sales engineering tracks!
-
+- **I'm currently working on:** Optimizing hardware verification testbenches, solving core digital logic challenges on HDLBits, and expanding system-level debugging skills.
+- **I'm looking to collaborate on:** Open-source digital design architectures, Verilog HDL IP cores, and embedded instrumentation systems.
+- **I'm looking for help with:** Advanced Mixed-Signal simulation workflows and industry-standard ASIC backend methodologies.
+- **I'm currently learning:** Modern C++ memory optimization protocols, Cadence Virtuoso layout mechanics, and technical sales account management structures.
+- **Ask me about:** Verilog HDL (RTL & FSM Design), LTspice simulation, UART architecture, digital logic verification, and C++.
+- **Know about my experiences:** <a href="https://www.linkedin.com/in/kushalkumar12102006/">LinkedIn</a>
+- **Fun fact:** I bridge the gap between complex hardware configurations and customer solutions—applying system verification rigor to technical sales engineering tracks!
 ## Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/kushalkumar12102006/">
