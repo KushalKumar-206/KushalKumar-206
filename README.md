@@ -20,21 +20,7 @@
 </p>
 
 ## Languages and Tools:
-<p align="center">
-  <!-- Programming & Core Development -->
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" title="Git"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" title="GitHub"/></a>
-  
-  <!-- Minimal EDA & Simulation Brand Icons -->
-  <a href="#"><img src="https://cdn.simpleicons.org/analogdevices/0067B8" width="42" height="42" title="LTspice (Analog Devices)"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/amd/ED1C24" width="42" height="42" title="AMD Vivado"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/texasinstruments/CC0000" width="42" height="42" title="Tina-TI (Texas Instruments)"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/microchiptechnology/00548B" width="42" height="42" title="Proteus (Hardware Simulation)"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" title="Icarus Verilog (Simulation Engine)"/></a>
-</p>
-
+<p align="center"><a href="#"><img src="https://cdn.simpleicons.org/analogdevices/0067B8" width="42" height="42" title="LTspice (Analog Devices)"/></a> <a href="#"><img src="https://cdn.simpleicons.org/amd/ED1C24" width="42" height="42" title="AMD Vivado"/></a> <a href="#"><img src="https://cdn.simpleicons.org/texasinstruments/CC0000" width="42" height="42" title="Tina-TI (Texas Instruments)"/></a> <a href="#"><img src="https://cdn.simpleicons.org/microchiptechnology/00548B" width="42" height="42" title="Proteus (Hardware Simulation)"/></a> <a href="#"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" title="Icarus Verilog (Simulation Engine)"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" title="Git"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" title="GitHub"/></a></p>
 ## 🔬 Featured Technical Projects
 
 ### 🎛️ [UART Controller Design & Verification](https://github.com/KushalKumar-206/UART-design-Verilog)
