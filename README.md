@@ -21,20 +21,19 @@
 
 ## Languages and Tools:
 <p align="center">
-  <!-- Languages & General Tools -->
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a>
+  <!-- Programming & Core Development -->
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" title="Git"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" title="GitHub"/></a>
   
-  <!-- EDA & Hardware Simulation Tools -->
-  <a href="#"><img src="https://img.shields.io/badge/LTspice-Analog_Simulation-blue?style=for-the-badge&logo=analogdevices&logoColor=white" height="40" title="LTspice"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AMD_Vivado-FPGA_%26_RTL-black?style=for-the-badge&logo=amd&logoColor=white" height="40" title="AMD Vivado"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tina--TI-Spice_Simulation-red?style=for-the-badge&logo=texas-instruments&logoColor=white" height="40" title="Tina-TI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Proteus-PCB_%26_Schematic-darkblue?style=for-the-badge" height="40" title="Proteus"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Icarus_Verilog-RTL_Simulation-orange?style=for-the-badge" height="40" title="Icarus Verilog"/></a>
+  <!-- Minimal EDA & Simulation Brand Icons -->
+  <a href="#"><img src="https://cdn.simpleicons.org/analogdevices/0067B8" width="42" height="42" title="LTspice (Analog Devices)"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/amd/ED1C24" width="42" height="42" title="AMD Vivado"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/texasinstruments/CC0000" width="42" height="42" title="Tina-TI (Texas Instruments)"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/microchiptechnology/00548B" width="42" height="42" title="Proteus (Hardware Simulation)"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" title="Icarus Verilog (Simulation Engine)"/></a>
 </p>
----
 
 ## 🔬 Featured Technical Projects
 
