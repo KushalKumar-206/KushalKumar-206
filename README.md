@@ -21,11 +21,11 @@
 
 ## Languages and Tools:
 <p align="center">
-  <a href="#"><img src="./images/ltspice.webp" width="42" height="42" title="LTspice"/></a>
-  <a href="#"><img src="./images/amd.webp" width="42" height="42" title="AMD Vivado"/></a>
-  <a href="#"><img src="./images/tina.webp" width="42" height="42" title="Tina-TI"/></a>
-  <a href="#"><img src="./images/proteuslogo.jpg " width="42" height="42" title="Proteus"/></a>
-  <a href="#"><img src="./images/iverilog.jpg" width="42" height="42" title="Icarus Verilog"/></a>
+  <a href="#"><img src="./assets/ltspice.png" width="42" height="42" title="LTspice"/></a>
+  <a href="#"><img src="./assets/vivado.png" width="42" height="42" title="AMD Vivado"/></a>
+  <a href="#"><img src="./assets/tinati.png" width="42" height="42" title="Tina-TI"/></a>
+  <a href="#"><img src="./assets/proteus.png" width="42" height="42" title="Proteus"/></a>
+  <a href="#"><img src="./assets/icarus.png" width="42" height="42" title="Icarus Verilog"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" title="Git"/></a>
